@@ -6,7 +6,7 @@ function largest() {
         window.alert(big + "-is Larger");
     }
     else {
-        window.alert(small + "-is smaller");
+        window.alert(small + "-is larger");
     }
 }
 
